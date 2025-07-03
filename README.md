@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Cold Email Generator using LangChain + Groq
+# 🤖 AI-Powered Cold Email Generator 
 
 🚀 **A powerful and production-ready tool that leverages the latest in LLM technology to generate personalized cold emails from job links — built with LangChain, Groq, and LLaMA 3.**
 
