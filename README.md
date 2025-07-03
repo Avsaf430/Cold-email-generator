@@ -21,6 +21,14 @@ Whether you're reaching out to a recruiter, company, or hiring manager — this 
 
 ---
 
+## 🔁 System Architecture
+
+To visualize the flow, here's the end-to-end architecture of the solution:
+
+![System Architecture](architecture.png)
+
+---
+
 ## ⚙️ Project Flow
 
 1. **🔗 Input Job Link** – Paste a link to the job posting.
